@@ -1,0 +1,21 @@
+html{
+	background: #262626;
+}
+p {
+	color: #fff;
+		font-size: 1.1em;
+}
+h1 {
+		text-align: center;
+		color: black;
+		font-size: 50px !important; line-height:100px !important;
+}
+button {
+	color: #fff; 
+	background: #FFA500; 
+	padding: 10px; 
+	border-radius: 5px;
+	border: 2px solid #FF8247;
+	width: 100px;
+	position: center;
+}
